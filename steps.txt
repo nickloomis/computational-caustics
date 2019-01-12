@@ -1,0 +1,11 @@
+- input source distribution
+- predict receiver distribution for an unmodified slab
+- resample distributions -> lloyd, eg
+- power diagrams (cgal recommended)
+- solve optimal transport mapping
+- triangular map of slab vertices
+- natural neighbor interpolation of vertices onto target for x_r positions
+- solve for surface (ceres recommended)
+- iterate
+- generate stl
+- prototype
